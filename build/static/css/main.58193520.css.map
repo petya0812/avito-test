@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.58193520.css","mappings":"AAAA,EAEE,sBADA,QACA,CAGF,WACE,aAEF,KACE","sources":["index.scss"],"sourcesContent":["*{\n  margin: 0;\n  box-sizing: border-box;\n}\n\nbody, #root{\n  height: 100vh;\n}\nbody{\n  overflow-y: scroll;\n}\n\n"],"names":[],"sourceRoot":""}
